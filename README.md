@@ -1,4 +1,4 @@
-# 📘 Lista de Exercícios em C – 
+# 📘 Lista de Exercícios em C 
 
 Este repositório contém uma coleção de **13 algoritmos em linguagem C**, desenvolvidos com o objetivo de praticar **comandos sequenciais**, entrada de dados, operações matemáticas e lógica básica de programação.
 
