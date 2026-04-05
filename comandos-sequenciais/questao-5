@@ -1,0 +1,16 @@
+ // Questão 5. Fazer um algoritmo que converta centímetros para polegadas (obs.: 1pol = 2.54cm).
+
+#include <stdio.h>
+
+int main() {
+    float centimetros, polegadas;
+
+    printf("Digite o valor em centímetros: ");
+    scanf("%f", &centimetros);
+
+    polegadas = centimetros / 2.54;
+
+    printf("%.2f cm = %.2f polegadas\n", centimetros, polegadas);
+
+    return 0;
+} 
